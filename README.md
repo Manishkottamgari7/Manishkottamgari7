@@ -115,8 +115,8 @@ In my initial role at CEPTES, I created comprehensive Salesforce solutions utili
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkottamgari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkottamgari&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishkottamgari7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkottamgari7&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🔥 Featured Projects
